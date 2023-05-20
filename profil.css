@@ -1,0 +1,27 @@
+.body-profil{
+padding:100px;
+border: 50px;
+}
+.profil
+{
+ border: solid blue ;
+ padding: 50px;
+ border-radius: 12px;
+ margin-left: 20%;
+ margin-right: 20%;
+}
+.modification_enregistrée{
+border: solid  black;
+padding: 50px;
+border-radius: 12px;
+position: fixed;
+top: 30%;
+right: 0;
+left: 0;
+margin: 0 auto;
+width: 600px;
+background-color: green;
+opacity: 60%;
+color:white;
+text-align: center;
+}

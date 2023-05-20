@@ -1,0 +1,84 @@
+body{
+    background: url(gray.jpg);
+    background-size: cover;
+  
+  }
+  #connexion_form{
+      background :black;
+          opacity: 60%;
+          border-radius: 40px;
+          margin-left: 20% ;
+          margin-right:20% ;
+          margin-top:10%;
+          margin-bottom:10%;
+          padding:12px;
+          height:auto;
+          
+          text-align: center;
+          position: relative;
+  }
+  #inputs{
+      width: 80%;
+      height: 3vw;
+      outline:none;
+      background-color: transparent;
+      color:#fff;
+      border: none;
+      border-bottom: 1px solid #fff;
+      text-align: center;
+      font-size: medium;
+  }
+  #quantity{
+    width: 20%;
+  
+  }
+  #color{
+      width: 40%;
+      height: 0.1vw;
+      float:left;
+    
+  }
+  #radio{
+    width: 10%;
+    height: 2vw;
+    
+  }
+  #image{
+    float:right;
+  }
+  
+  label,p{
+    color:white;
+    font-size:150%;
+    font-family: "Times New Roman", Times, serif;
+  
+  }
+  #submit{
+      width: 10%;
+      height: 40px;
+      color:#fff;
+      background-color: transparent;
+      width:30mm;
+      cursor:pointer;
+      border-radius:12px;
+   
+      
+  }
+  #cara{
+    border: 1px solid #fff;
+    height: 12vw;
+    padding:2%;
+    border-radius: 40px;
+    margin-bottom:2%;
+  
+  
+    
+  
+  }
+  #col_im{
+    height: 2vw;
+    margin-bottom:20px;
+    border-bottom: 1px solid #fff;
+  
+  
+  }

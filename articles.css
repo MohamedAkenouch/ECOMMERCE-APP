@@ -1,0 +1,33 @@
+body{
+  background: url(gray.jpg);
+  background-size: cover;
+}
+.article_row > .article_column {
+    padding: 0 0;
+  }
+
+  .article_row:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+  }	
+
+  .article_column {
+   float: left;
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 5vw;
+   
+  }
+
+  #title{
+      font-size: 4vw;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+#body{
+    font-size: 1.25vw;
+
+}

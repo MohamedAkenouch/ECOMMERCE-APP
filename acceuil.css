@@ -1,0 +1,84 @@
+body{
+    background: url(gray.jpg);
+    background-size: cover;
+}
+
+nav{
+    background-color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+h5{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+} 
+#msg{
+    display:flex;
+
+}
+#contenu_footer{
+    display:flex;
+    margin:0 auto;
+    justify-content: center;
+    align-items: flex-start;
+}
+.jumbotron {
+    background:grey;
+    color: #FFF;
+    border-radius: 0px;
+    }
+    .jumbotron-sm { padding-top: 24px;
+    padding-bottom: 24px; }
+    .jumbotron small {
+    color: #FFF;
+    }
+    .h1 small {
+    font-size: 24px;
+    }
+h2{
+    font-size:xx-large;
+    height: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:#FFF;
+    background-color: grey;
+}
+.nomProduit{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color:burlywood;
+  
+}
+.prix{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color:black;
+    
+
+
+}
+.carousel-item{
+    height: 900px;
+}
+table{
+    margin:auto;
+}
+#connection{
+    display:none;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+

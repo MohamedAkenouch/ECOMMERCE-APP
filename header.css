@@ -1,0 +1,23 @@
+#header_logo{
+    width: 20;
+    height: 60px;
+    
+    
+}
+#header_search
+{
+ width: 60%;
+ height: 50px;
+ background-color: rgb(223, 221, 221);
+ font-size: x-large;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-style: italic;
+ border-radius: 18px;
+ margin-top: 2%;
+ margin-left:2% ;
+}
+#header_nav{
+    background-color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}

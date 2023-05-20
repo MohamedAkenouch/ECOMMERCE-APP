@@ -1,0 +1,65 @@
+body{
+  background: url(gray.jpg);
+  background-size: cover;
+
+}
+h2{
+    font-size:xx-large;
+    height: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:#FFF;
+    margin : 2%;
+}
+.background-h2{
+  background-color: grey;
+
+
+}
+#total_incomes_style{
+  background-color: red;
+  width: 70%;
+  height: 25%;
+  margin-top:2vw;
+  margin-left:30%;
+
+}
+#users_style{
+  background-color: yellow;
+  width: 70%;
+  height: 25%;
+  margin-top:2vw;
+  margin-left:30%;
+
+
+
+}
+#commandes_style{
+  background-color: green;
+  width: 70%;
+  height: 25%;
+  margin-top:2vw;
+  margin-left:30%;
+}
+.bord{
+  text-align: center;
+  padding:10%;
+  font-size:160%;
+  font-family: "Lucida Handwriting", Helvetica, sans-serif;
+  font-weight: bold;
+  padding:3%;
+
+}
+.bord1{
+  text-align: center;
+  padding:10%;
+  font-size:300%;
+  font-family: "Lucida Handwriting", Helvetica, sans-serif;
+  font-weight: bold;
+  padding:3%;
+
+}
+.statistic{
+  margin-left:10%;
+
+}
